@@ -1,0 +1,14 @@
+
+### ERCF         -->  Mellow FLY-CAN V2  --->                                               --->                                            --->  9502eeec5534
+
+### Caterpillar  -->  Mellow FLY-CAN V1.2  --->  usb-katapult_rp2040_E6625495534C0732-if00  --->  usb-Klipper_rp2040_E6625495534C0732-if00  --->  8c6500567c46
+### ERCF         -->  Mellow FLY-CAN V1.2  --->  usb-katapult_rp2040_E6625495530A522B-if00  --->  usb-Klipper_rp2040_E6625495530A522B-if00  --->  998e30ff4698 
+
+### Caterpillar  -->  ERCF EASY BRD V1.1  --->  usb-Klipper_samd21g18a_5B83356C4A34555020312E32142D03FF-if00  --->  Bus xxx Device 015: ID xxxx:xxxx OpenMoko, Inc. samd21g18a  --->  usb-Seeed_Studio_Seeeduino_XIAO_6C35835B5055344A322E3120FF032D14-if00
+### ERCF         -->  ERCF EASY BRD V1.1  --->  usb-Klipper_samd21g18a_CF95BCE14A34555020312E32101408FF-if00  --->  Bus xxx Device 013: ID xxxx:xxxx OpenMoko, Inc. samd21g18a  --->  usb-Seeed_Studio_Seeeduino_XIAO_E1BC95CF5055344A322E3120FF081410-if00
+
+#### VORON STEALTHBURNER  -->                                                                                                               --->  901b3e25c9ba
+
+#### Octopus V1.1 - USB Interface  -->  /dev/serial/by-id/usb-katapult_stm32f446xx_440053000A51303432383339-if00  --->  /dev/serial/by-id/usb-Klipper_stm32f446xx_440053000A51303432383339-if00
+
+
