@@ -564,6 +564,7 @@ CONFIG_PARAM_GEAR_UART_ADDRESS_3=0 #~DEFAULT~#
 # CONFIG_BOARD_TYPE_OTHER is not set
 # CONFIG_BOARD_TYPE_MANUAL is not set
 #   Name
+#     Klipper object name: unit0  (rename with './install.sh -i', REPLACE mode)
 CONFIG_PARAM_DISPLAY_NAME="ERCF-0" #~DEFAULT~#
 #   end of Name
 #   MMU Features / Additions
